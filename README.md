@@ -1,6 +1,3 @@
-Homework 17
+Homework #16: D3
 
-# leaflet-challenge
-U of MN Data Analytics &amp; Visualization: Leaflet Homework - Visualizing Data with Leaflet (Git Main)
-
-
+Please access deployed website via the following link: 
