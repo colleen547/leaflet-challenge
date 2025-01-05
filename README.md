@@ -22,7 +22,7 @@ For this project, assume that the USGS is interested in building a new set of to
 
 5. Push the above changes to GitHub.
 
-## Your Task
+## Required Task
 
 ### Level 1: Basic Visualization
 
