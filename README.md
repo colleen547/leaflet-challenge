@@ -72,16 +72,11 @@ In this step you are going to..
 
 ### SUCCESS CRITERIA
 
-The final product will be assessed on the following metrics:
-
 * Completion of assigned tasks
 
 * Visual appearance
 
 * Professionalism
-
-
-**Good luck!**
 
 
 ### Copyright
