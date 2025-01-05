@@ -34,7 +34,7 @@ The first task is to visualize an earthquake data set.
 
    ![3-Data](Images/3-Data.png)
 
-   The USGS provides earthquake data in several different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example, 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
+   The USGS provides earthquake data in several different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example, 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for the visualization.
 
    ![4-JSON](Images/4-JSON.png)
 
@@ -44,7 +44,7 @@ The first task is to visualize an earthquake data set.
 
    * The data markers should use size to indicate the earthquake's magnitude and color to indicate the earthquake's depth. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
-   * **HINT** The depth of the earth can be found as the third coordinate for each earthquake.
+   * **HINT:** The depth of the earth can be found as the third coordinate for each earthquake.
 
    * Include popups that provide additional information about the earthquake when clicking a marker.
 
