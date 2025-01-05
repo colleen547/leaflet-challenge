@@ -1,9 +1,9 @@
 Homework #17: Geo-Mapping Homework (d3/Leaflet)
 
-Please access mye deployed website via the following link: https://colleen547.github.io/leaflet-challenge/
+Please access my deployed website via the following link: https://colleen547.github.io/leaflet-challenge/
 
 DESCRIPTION:
-
+![1-Logo](Images/1-Logo.png)
 Welcome to the United States Geological Survey or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
 For this project, assume that the USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world daily but lack a meaningful way of displaying it. Visualizing their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
