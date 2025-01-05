@@ -54,7 +54,7 @@ The first task is to visualize an earthquake data set.
 
 - - -
 
-### Level 2: More Data (Optional)
+### Level 2: More Data (Advanced)
 
 ![5-Advanced](Images/5-Advanced.png)
 
