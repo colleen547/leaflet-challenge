@@ -8,15 +8,17 @@ Welcome to the United States Geological Survey or USGS for short! The USGS is re
 
 For this project, assume that the USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world daily but lack a meaningful way of displaying it. Visualizing their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
-BEFORE YOU BEGIN: 
-(1) Create a new repository for this project called leaflet-challenge. 
-(2) Clone the new repository to your computer.
+### Before You Begin
 
-This project utilizes both html and Javascript, so be sure to add all the necessary files. These will be the main files to run for analysis. Please use a directory structure similar to the ones used previously.
+1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
 
-IMPORTANT: Be sure to keep your API Key in a separate file and don't push it to GitHub! Remember to update your .gitignore accordingly.
+2. Clone the new repository to your computer.
 
-Push the above changes to GitHub.
+3. This project utilizes both **html** and **Javascript**, so be sure to add all the necessary files. These will be the main files to run for analysis. Please use a directory structure similar to the ones used previously; e.g., `static/js`.
+
+4. Be sure to keep your API Key in a separate file and don't push it to GitHub. Remember to update your `.gitignore` accordingly. 
+
+5. Push the above changes to GitHub.
 
 
 TASK:
