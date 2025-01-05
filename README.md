@@ -1,6 +1,6 @@
-Homework #17: Geo-Mapping Homework (d3/Leaflet) - **Visualizing Data with Leaflet**
+###Homework #17: Geo-Mapping Homework (d3/Leaflet) - **Visualizing Data with Leaflet**
 
-Please access my deployed website via the following link: https://colleen547.github.io/leaflet-challenge/
+**Please access my deployed website via the following link: https://colleen547.github.io/leaflet-challenge/**
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
