@@ -2,22 +2,22 @@ Homework #17: Geo-Mapping Homework (d3/Leaflet)
 
 Please access my deployed website via the following link: https://colleen547.github.io/leaflet-challenge/
 
-DESCRIPTION:
+## Background
 ![1-Logo](Images/1-Logo.png)
 Welcome to the United States Geological Survey or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
 For this project, assume that the USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world daily but lack a meaningful way of displaying it. Visualizing their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
-Before You Begin
-Create a new repository for this project called leaflet-challenge. 
-
-Clone the new repository to your computer.
+BEFORE YOU BEGIN: 
+(1) Create a new repository for this project called leaflet-challenge. 
+(2) Clone the new repository to your computer.
 
 This project utilizes both html and Javascript, so be sure to add all the necessary files. These will be the main files to run for analysis. Please use a directory structure similar to the ones used previously.
 
 IMPORTANT: Be sure to keep your API Key in a separate file and don't push it to GitHub! Remember to update your .gitignore accordingly.
 
 Push the above changes to GitHub.
+
 
 TASK:
 Level 1: Basic Visualization
