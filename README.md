@@ -48,9 +48,9 @@ The first task is to visualize an earthquake data set.
 
    * Include popups that provide additional information about the earthquake when clicking a marker.
 
-   * Create a legend that will provide context for your map data.
+   * Create a legend that will provide context for the map data.
 
-   * Your visualization should look something like the map below.
+   * The visualization should look something like the map below.
 
 - - -
 
